@@ -7,3 +7,4 @@
 <img src="J1.png"><br>
 [ссылка диаграммы прецедентов](http://www.plantuml.com/plantuml/png/fP71JW8n48RFp5DCUj83YGzW38ldJVRckTcjqB1ioRGR3s82UELXK24XWZx3z8qSg1WIlNbeylV__twPINi-Q0hjk0O_iir4anwZBeCZV8HENvUZ0RcsgMvTBTRTq0O3dOp8FIIdNqj5YeugG-VMqnclzQRKtloRM9lxWC4XsS4mO6N9bC6w1jAynHLgZufVueot_COhNlDAVOTv2kESttbtY50w7t4U5t4MdtdF6xaj-9DVrGbtV90QucybtV0kBd-8n_mlYeBJmjalHbmYhqNk5HJOxU95TWbo3Z87sU1wAgg0N8pfZKmDFTDKyZjV)
 <img src="J2.png">
+Лабораторная 2<br>
