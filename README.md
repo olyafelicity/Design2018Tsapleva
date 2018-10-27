@@ -13,3 +13,4 @@ IDEF0 (png)<br>
 <img src="modelred.png"><br>
 **Определение надсистемы (среды функционирования)**<br>
 Plan-Do-Check (png)<br> 
+<img src="model2.png"><br>
