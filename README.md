@@ -1,5 +1,5 @@
 **Отчет о лабораторных работах**<br>
-**Студент группы [ИДБ-15-12]**(https://github.com/stankin/design-2018/wiki/list-idb-15-12) Цаплева О. А.<br>
+**Студент группы [ИДБ-15-12](https://github.com/stankin/design-2018/wiki/list-idb-15-12) Цаплева О. А.<br>
 **Лабораторная 1**<br>
  <li> [ссылка idef0 шесть вопросов](http://127.0.0.1:62622/idef0/index.html?id=3)
  <li> [ссылка диаграммы классов](http://www.plantuml.com/plantuml/png/JOzDIiH048NNqwSePgNW8SRn0kvSDzsDqqnFMgeJN8WG5Lm9MRYNn1E8Fn0YnYkylf4LiZ2Rehxt7e-gJIerbzKXgBJtnPLcVI0JT4fqerPRRVQN7Al2diKGcIvsldHgTSeShsTb6oGYmSZMyLAwLNFB6Ys-y8at3FaUOwxNf1ETIpkXo_NiaOplt93mVxON6l4kz2DxenP5ZvD062O77-Zf26r-41xnAzPTVZeXFEC57LwFvPITjuwCPnESshZ2ohj_)<br>
