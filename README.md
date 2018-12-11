@@ -32,7 +32,7 @@ IDEF0 (png)<br>
 * Формальное определение темы курсового проекта (наименование информационной системы) - Система для выделения сложных форм рельефа
 
 ### Разработка диаграмм в RAMUS<br>
- [ссылка на диаграммы](http://127.0.0.1:51494/idef0/index.html?id=3&h=768&w=1024)<br>
+ [ссылка на диаграммы](127.0.0.1:51494/idef0/index.html?id=3)<br>
 
 * Контекстная диаграмма А0 - "построение функционально-воксельной модели рельефа"
 
@@ -69,32 +69,14 @@ IDEF0 (png)<br>
 
 ### Разработка диаграмм в RAMUS - декомпозиция всех автоматизируемых блоков в DFD
 
-* Декомпозиция блока А11 "Создание проекта и добавление участников"
+* Декомпозиция блока А1 "Вычесление облака точек"
 
-![A11](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A11.png)
+![A11](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/modeldfda1.png)
 
-* Декомпозиция блока А12 "Заполнение инфо о проекте и базовой документации"
+* Декомпозиция блока А23 "Определение топологии связей между узлами"
 
-![A12](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A12.png)
+![A12](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/modeldfda23.png)
 
-* Декомпозиция блока А13 "Создание общего чата и календаря"
 
-![A13](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A13.png)
-
-* Декомпозиция блока А33 "Подбор цветовой палитры"
-
-![A33](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A33.png)
-
-* Декомпозиция блока А34 "Составление мудборда"
-
-![A34](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A34.png)
-
-* Декомпозиция блока А53 "Проверка соответствия"
-
-![A53](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A53.png)
-
-* Декомпозиция блока А54 "Сбор документации"
-
-![A54](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A54.png)
 
 
