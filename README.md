@@ -85,7 +85,7 @@ IDEF0 (png)<br>
 [Код UML](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/erdpotok.txt)
 
 
-![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Роли.png)
+![](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/rolesim.png)
 
 [Код UML](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/roles.txt)
 
