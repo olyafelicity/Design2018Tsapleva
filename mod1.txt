@@ -1,0 +1,27 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+class Ef as "Экранная форма"
+class ModOb as "Модуль обработки"
+class Cloud as "Извлечение\nкоординат\nточек"
+class WriteCoord as "Запись координат \n точек в блокнот"
+class CrReb as "Создание первого \n ребра оболочки"
+class FindTr as "Поиск нового\n треугольника"
+class DelReb as "Удаление ребра"
+class SpisTr as "Возвращение списка треугольников"
+Entity <|-- Ef
+Entity <|-- ModOb
+Ef <|-- Cloud
+Ef <|-- WriteCoord
+ModOb <|-- CrReb
+ModOb <|-- FindTr
+ModOb <|-- DelReb
+ModOb <|-- SpisTr
+hide members
+hide circle
+hide methods
+@enduml
