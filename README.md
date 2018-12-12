@@ -80,7 +80,7 @@ IDEF0 (png)<br>
 ### Лабораторная работа №6
 ***
 
-![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Потоки.png)
+![](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/potok.png)
 
 [Код UML](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/erdpotok.txt)
 
