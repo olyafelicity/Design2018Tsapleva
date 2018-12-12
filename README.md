@@ -77,6 +77,21 @@ IDEF0 (png)<br>
 
 ![A12](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/modeldfda23.png)
 
+### Лабораторная работа №6
+***
 
+![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Потоки.png)
+
+[Код UML](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Потоки.txt)
+
+
+![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Роли.png)
+
+[Код UML](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Роли.txt)
+
+
+![](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Модули.png)
+
+[Код UML](https://github.com/GrigorevaNadezhda/GrigorevaNadezhda.github.io/blob/master/Модули.txt)
 
 
