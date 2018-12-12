@@ -89,7 +89,7 @@ IDEF0 (png)<br>
 
 [Код UML](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/roles.txt)
 
-![](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/rolesim.png)
+![](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/mod2.png)
 
 [Код UML](https://github.com/olyafelicity/Design2018Tsapleva/blob/master/mod1.txt)
 
