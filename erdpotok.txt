@@ -1,0 +1,44 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Потоки"
+
+class Input as "Входной\nпоток"
+class Output as "Выходной\nпоток"
+class Control as "Поток\nуправления"
+
+class INInformation as "Информационный"
+
+class OUTMaterialistic as "Материальный"
+
+class CTRLInformation as "Информационный"
+
+class Requirements as "Цифровая\nкарта\nрельефа"
+class FinishedProjest as "Функционально-воксельная\nмодель\nрельефа"
+class MetodFVM as "ФВМ"
+class ADMath as "Аналитическая\nи\nдифференциальная\nгеометрия" 
+class StandartONE as "ГОСТ\n50828-95" 
+class StandartTWO as "ГОСТ\nЕСПР" 
+
+Entity <|-- Input 
+Entity <|-- Output 
+Entity <|-- Control 
+
+Input <|-- INInformation 
+Output <|-- OUTMaterialistic 
+Control <|-- CTRLInformation 
+
+INInformation <|-- Requirements 
+OUTMaterialistic <|-- FinishedProjest 
+CTRLInformation <|-- MetodFVM
+CTRLInformation <|-- ADMath 
+CTRLInformation <|-- StandartONE 
+CTRLInformation <|-- StandartTWO
+
+hide members
+hide circle
+hide methods
+@enduml
